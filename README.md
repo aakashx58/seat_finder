@@ -15,5 +15,5 @@ To run the project -
 
 
 - Video -
-
+<img height="400" src="https://github.com/aakashx58/seat_finder/assets/106716824/24a4faac-a101-4ac6-8086-cd9f0c15fbef">
   
