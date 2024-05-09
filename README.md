@@ -13,6 +13,7 @@ To run the project -
 
 <img height="400" src="https://github.com/aakashx58/seat_finder/assets/106716824/1f013c03-4843-45d4-85b2-ce0d9c102ef1">
 
+
 - Video -
 <img height="400" src="https://github.com/aakashx58/seat_finder/assets/106716824/24a4faac-a101-4ac6-8086-cd9f0c15fbef">
   
